@@ -11,8 +11,8 @@
    ## #****H   H***H#****## XXXH
    #XX#*****#H#*********#XXXXX#
     XX#******#**********#XXXXX#
-	#X#******#*********#XXXXX#
-	HX#H*****HH*******#XXXXX#
+    #X#******#*********#XXXXX#
+    HX#H*****HH*******#XXXXX#
     HH#******H*******#XXXXX##
     #H###############XXXXXX#XXHHHH
    H;;;;;;;;;;;###P#XXXXXXXX#XXXXXH
